@@ -57,9 +57,9 @@ I'm a passionate **Software Developer** based in Metro Manila, Philippines, with
 
 ## 📊 GitHub Stats
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jim-chvz&show_icons=true&theme=radical&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jim-chvz&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jim-chvz&layout=compact&theme=radical)
 
 ## 🌟 Interests
 
