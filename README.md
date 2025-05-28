@@ -1,4 +1,4 @@
-# Hi there, I'm John Jimwell Chavez! 👋
+# Hi there, I'm Jimwell Chavez! 👋
 
 ## 🚀 About Me
 
