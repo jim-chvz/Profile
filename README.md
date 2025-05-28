@@ -5,7 +5,7 @@
 I'm a passionate **Software Developer** based in Metro Manila, Philippines, with a strong foundation in **Java** and **web development**. I love building innovative solutions and exploring new technologies while continuously improving my skills.
 
 - 🎓 **Bachelor of Science in Information Technology** from Urdaneta City University
-- 💼 Currently working as an **H5 Game Developer** at BY Technology Inc.
+- 🔍 Currently seeking new opportunities as a **Software Developer**
 - 🌱 Always learning and growing as a developer
 - 🎮 Passionate about game development and interactive experiences
 - 📍 Located in Metro Manila, Philippines
@@ -40,14 +40,15 @@ I'm a passionate **Software Developer** based in Metro Manila, Philippines, with
 - 🌐 Building robust **web applications** with modern frameworks
 - 📱 Creating responsive and interactive user interfaces
 - 🔧 Optimizing performance for web and mobile platforms
+- 💼 Actively seeking new opportunities in software development
 
 ## 💼 Professional Experience
 
-### H5 Game Developer | BY Technology Inc. (2023 - Present)
-- Developing HTML5 games using **Cocos Creator** and **Cocos2d-x**
-- Creating engaging game features, UI interactions, and animations
-- Collaborating with designers and developers to implement game logic
-- Optimizing performance for web and mobile platforms
+### H5 Game Developer | BY Technology Inc. (2023 - 2024)
+- Developed HTML5 games using **Cocos Creator** and **Cocos2d-x**
+- Created engaging game features, UI interactions, and animations
+- Collaborated with designers and developers to implement game logic
+- Optimized performance for web and mobile platforms
 
 ### Web Developer Intern | Easycom Japan Philippines Inc. (2022 - 2023)
 - Built APIs using **Node.js** and **Express.js**
@@ -63,9 +64,8 @@ I'm a passionate **Software Developer** based in Metro Manila, Philippines, with
 
 ## 🌟 Interests
 
-- 🎮 Game Development
 - 🌐 Web Technologies
-- 📱 Mobile Development
+- 🎮 Game Development
 - 💡 Learning new programming languages and frameworks
 - 🤝 Contributing to meaningful projects
 
