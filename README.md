@@ -1,4 +1,4 @@
-markdown# Hi there, I'm John Jimwell Chavez! 👋
+# Hi there, I'm John Jimwell Chavez! 👋
 
 ## 🚀 About Me
 
