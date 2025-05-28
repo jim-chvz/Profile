@@ -1,4 +1,4 @@
-# 👋 Hi, I'm John Jimwell Chavez
+# 👋 Hi, I'm Jimwell Chavez
 
 🎯 QA Tester | Software Developer | Game Developer | Always Learning
 
