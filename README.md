@@ -53,13 +53,6 @@ I'm a developer with a background in both software development and quality assur
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jim-chvz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jim-chvz&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=jim-chvz&theme=tokyonight)
----
-
 ## 📫 Get in Touch
 
 - 📧 [jimwellchavez.dev@gmail.com](mailto:jimwellchavez.dev@gmail.com)  
